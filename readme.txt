@@ -1,1 +1,1 @@
-varianta corecta
+varianta corecta in var2
